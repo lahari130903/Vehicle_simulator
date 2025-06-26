@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from VehicleSimulatorWindow import MainWindow
+from WindowsLogic.VehicleSimulatorWindow import MainWindow
 
 
 if __name__ == "__main__":

@@ -1,5 +1,0 @@
-Signalname,Datatype
-speed,integer
-outside temperature,integer
-super cruise,integer
-Hood open,boolean
